@@ -1,0 +1,27 @@
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\bin\Debug\net8.0-windows\aplikasi restoran.exe
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\bin\Debug\net8.0-windows\aplikasi restoran.deps.json
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\bin\Debug\net8.0-windows\aplikasi restoran.runtimeconfig.json
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\bin\Debug\net8.0-windows\aplikasi restoran.dll
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\bin\Debug\net8.0-windows\aplikasi restoran.pdb
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi_restoran.Form1.resources
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi_restoran.Form2.resources
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi_restoran.Form3.resources
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi restoran.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi restoran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi restoran.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi restoran.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi restoran.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi restoran.dll
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\refint\aplikasi restoran.dll
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi restoran.pdb
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi restoran.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\ref\aplikasi restoran.dll
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi_restoran.Form4.resources
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi_restoran.Form5.resources
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi restoran.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi.D9D02E32.Up2Date
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi_restoran.Form6.resources
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi_restoran.Properties.Resources.resources
+C:\Users\ASUS\source\repos\aplikasi restoran\aplikasi restoran\obj\Debug\net8.0-windows\aplikasi_restoran.Form7.resources
